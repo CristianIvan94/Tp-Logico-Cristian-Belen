@@ -23,6 +23,7 @@ encargo(bernardo, vincent, buscar(jules, fuerteApache)).
 encargo(bernardo, winston, buscar(jules, sanMartin)).
 encargo(bernardo, winston, buscar(jules, lugano)).
 
+
 amigo(vincent, jules).
 amigo(jules, jimmie).
 amigo(vincent, elVendedor).
